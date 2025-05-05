@@ -77,5 +77,7 @@ This project is intended for educational purposes only and is not a replacement 
 
 ## 📬 Contact
 Made with by Aditya Jain
+
 📧 Reach out: [meaditya1103@gmail.com]
+
 🔗 LinkedIn: [linkedin.com/in/aditya-jain-111832277]
