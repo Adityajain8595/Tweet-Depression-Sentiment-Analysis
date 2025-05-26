@@ -1,0 +1,9 @@
+numpy
+pandas
+scikit-learn
+nltk
+imbalanced-learn
+joblib
+beautifulsoup4
+lxml
+streamlit
