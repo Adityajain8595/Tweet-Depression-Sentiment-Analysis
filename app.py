@@ -2,6 +2,9 @@ import streamlit as st
 import joblib
 import re
 from nltk.corpus import stopwords
+nltk.download('punkt')
+nltk.download('stopwords')
+nltk.download('wordnet')
 from bs4 import BeautifulSoup
 
 
