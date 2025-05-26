@@ -61,17 +61,20 @@ Social media platforms often reveal the emotional and mental state of users. By 
 
 
 
+
 ## 🧪 How to Run
 
-1. Clone this repository:
+1. Clone this repository and install dependencies:
   
    >> git clone https://github.com/Adityajain8595/Tweet-Depression-Sentiment-Analysis
+   
+   >> pip install -r requirements.txt
 
-   >> cd Tweet-Depression-Sentiment-Analysis
+2. Run Streamlit app:
 
-2. Run the notebook or Python script:
+   >> streamlit run app.py
 
-   >> jupyter notebook depression_analysis.ipynb
+   or Go to the link https://tweet-depression-detector.streamlit.app/
 
 ---
 
