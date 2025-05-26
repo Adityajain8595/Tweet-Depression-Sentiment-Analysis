@@ -29,7 +29,7 @@ Social media platforms often reveal the emotional and mental state of users. By 
 
 - ✅ **Text Preprocessing with NLTK**: Tokenization, lowercasing, stopwords, special characters, urls, tags and additional spaces removal, punctuation stripping, lemmatization.
 - ✅ **TF-IDF Vectorization**: Converts cleaned text into numerical feature vectors.
-- ✅ **Imbalance Handling**: Applied **Random Oversampling** on the minority class.
+- ✅ **Imbalance Handling**: Applied **SMOTE** on the minority class to create synthetic samples for it.
 - ✅ **Logistic Regression Classifier**: Trained to maximize F1-score and Recall.
 - ✅ **Model Evaluation**: Accuracy, Precision, Recall, F1-Score, and Confusion Matrix.
 
@@ -39,9 +39,9 @@ Social media platforms often reveal the emotional and mental state of users. By 
 
 | Metric      | Value |
 |-------------|-------|
-| Precision   | 1.00  |
+| Precision   | 0.98  |
 | Recall      | 0.96  |
-| F1 Score    | 0.98  |
+| F1 Score    | 0.97  |
 
 > ⚠️ Note: All results are evaluated on the untouched original test set to ensure fair and unbiased performance metrics.
 
@@ -76,7 +76,7 @@ Social media platforms often reveal the emotional and mental state of users. By 
 This project is intended for educational purposes only and is not a replacement for professional mental health services. If you or someone you know is struggling with mental health, please seek help from qualified professionals.
 
 ## 📬 Contact
-Made with by Aditya Jain
+Made by Aditya Jain
 
 📧 Reach out: [meaditya1103@gmail.com]
 
