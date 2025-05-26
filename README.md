@@ -31,7 +31,7 @@ Social media platforms often reveal the emotional and mental state of users. By 
 - ✅ **TF-IDF Vectorization**: Converts cleaned text into numerical feature vectors.
 - ✅ **Imbalance Handling**: Applied **SMOTE** on the minority class to create synthetic samples for it.
 - ✅ **Logistic Regression Classifier**: Trained to maximize F1-score and Recall.
-- ✅ **Model Evaluation**: Accuracy, Precision, Recall, F1-Score, and Confusion Matrix.
+- ✅ **Model Evaluation**: Accuracy, Precision, Recall, F1-Score, Confusion Matrix and Classification Report
 
 ---
 
@@ -56,6 +56,10 @@ Social media platforms often reveal the emotional and mental state of users. By 
 - Pandas, NumPy
 
 ---
+
+## Streamlit Webapp Interface
+
+
 
 ## 🧪 How to Run
 

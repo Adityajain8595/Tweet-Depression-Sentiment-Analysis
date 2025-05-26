@@ -1,7 +1,6 @@
 import streamlit as st
 import joblib
 import re
-import nltk
 from nltk.corpus import stopwords
 from bs4 import BeautifulSoup
 
