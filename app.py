@@ -1,6 +1,7 @@
 import streamlit as st
 import joblib
 import re
+import nltk
 from nltk.corpus import stopwords
 nltk.download('punkt')
 nltk.download('stopwords')
